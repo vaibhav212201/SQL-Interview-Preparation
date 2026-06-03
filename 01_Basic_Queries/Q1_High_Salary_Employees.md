@@ -10,8 +10,8 @@ Retrieve all employees whose salary is greater than 70000.
 SELECT *
 FROM Employees
 WHERE salary > 70000;
-## Explanation
 ```
+## Explanation
 WHERE clause filters rows based on a condition.
 
 Only employees with salary greater than 70000 are returned.

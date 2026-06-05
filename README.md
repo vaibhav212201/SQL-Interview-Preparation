@@ -72,7 +72,7 @@ SQL-Interview-Preparation
 
 ✅ Basic Queries (20/20)
 
-🔄 Joins (5/15)
+🔄 Joins (15/15)
 
 ⏳ Subqueries (0/15)
 

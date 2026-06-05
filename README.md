@@ -68,9 +68,16 @@ SQL-Interview-Preparation
 
 ## Progress
 
-* [x] Q01 - Q20 Basic Queries
-* [ ] Q21 - Q35 Joins
-* [ ] Q36 - Q50 Subqueries
-* [ ] Q51 - Q60 CTE
-* [ ] Q61 - Q80 Window Functions
-* [ ] Q81 - Q100 Interview Questions
+## Progress
+
+✅ Basic Queries (20/20)
+
+🔄 Joins (5/15)
+
+⏳ Subqueries (0/15)
+
+⏳ CTE (0/10)
+
+⏳ Window Functions (0/20)
+
+⏳ Interview Questions (0/20)

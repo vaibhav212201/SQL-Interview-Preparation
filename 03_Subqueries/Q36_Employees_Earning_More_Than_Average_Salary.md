@@ -1,0 +1,47 @@
+## Problem
+
+Find all employees whose salary is greater than the average salary of all employees.
+
+## SQL Query
+
+```sql
+SELECT *
+FROM Employees
+WHERE salary >
+(
+    SELECT AVG(salary)
+    FROM Employees
+);
+```
+
+## Explanation
+
+The subquery calculates the average salary of all employees.
+
+The outer query returns employees whose salary is greater than the calculated average salary.
+
+The subquery executes first, then the outer query uses its result.
+
+## Expected Output
+
+| emp_id | emp_name | salary |
+|---------|----------|---------|
+| 10 | Ankit | 90000 |
+| 23 | Abhishek | 95000 |
+| 43 | Divya | 97000 |
+| ... | ... | ... |
+
+(Output may vary based on dataset)
+
+## Concepts Used
+
+- Subquery
+- AVG()
+- WHERE Clause
+- Nested Query
+
+## Interview Tip
+
+A subquery is a query inside another query.
+
+This is one of the most frequently asked SQL interview questions.

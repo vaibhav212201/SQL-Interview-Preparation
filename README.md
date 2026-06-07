@@ -72,9 +72,9 @@ SQL-Interview-Preparation
 
 ✅ Basic Queries (20/20)
 
-🔄 Joins (15/15)
+✅ Joins (15/15)
 
-⏳ Subqueries (0/15)
+✅ Subqueries (15/15)
 
 ⏳ CTE (0/10)
 

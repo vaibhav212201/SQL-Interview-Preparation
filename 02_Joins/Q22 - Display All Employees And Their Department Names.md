@@ -18,14 +18,6 @@ LEFT JOIN returns all records from the left table (Employees).
 
 Matching records from Departments are returned when available.
 
-## Expected Output
-
-| emp_name | department_name |
-|-----------|----------------|
-| Rahul | IT |
-| Aman | HR |
-
-(Output may vary based on dataset)
 
 ## Concepts Used
 

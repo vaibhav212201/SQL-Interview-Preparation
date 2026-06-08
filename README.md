@@ -76,7 +76,7 @@ SQL-Interview-Preparation
 
 ✅ Subqueries (15/15)
 
-⏳ CTE (0/10)
+✅ CTE (10/10)
 
 ⏳ Window Functions (0/20)
 

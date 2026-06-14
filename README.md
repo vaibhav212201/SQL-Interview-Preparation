@@ -78,6 +78,6 @@ SQL-Interview-Preparation
 
 ✅ CTE (10/10)
 
-⏳ Window Functions (0/20)
+✅ Window Functions (20/20)
 
-⏳ Interview Questions (0/20)
+✅ Interview Questions (20/20)

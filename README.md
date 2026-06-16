@@ -62,7 +62,7 @@ SQL-Interview-Preparation
 
 ├── 05_Window_Functions
 
-├── 06_Interview_Questions
+├── 06_Interview_Question
 
 └── datasets
 

@@ -1,6 +1,6 @@
 # SQL Interview Preparation 📚
 
-A curated collection of SQL interview questions with solutions and explanations.
+A curated collection of SQL interview questions with solutions and explanations
 
 ## Topics Covered
 
